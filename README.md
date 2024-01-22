@@ -7,3 +7,17 @@ This is the best restaurant in india which is famous for briyani and the taste w
 
 **Self Love is important**
 **Kindness is about compassion and empathy** 
+---
+# Favourite Dishes
+<ol>
+<li>Dum Biryani</li>
+<li>Chicken 65</li>
+<li>Apricot Delight</li>
+</Ol>
+
+# places near the restaurant
+<ul>
+<li>Mall</li>
+<li>Park</li>
+<li>Play station</li>
+</ul>
