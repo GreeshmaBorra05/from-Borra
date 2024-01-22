@@ -22,6 +22,4 @@ This is the best restaurant in india which is famous for briyani and the taste w
 <li>Play station</li>
 </ul>
 
-![About Greeshma](<greeshma's image-1.jpg>)
-
 
