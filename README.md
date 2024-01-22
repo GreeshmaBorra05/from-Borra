@@ -15,7 +15,7 @@ This is the best restaurant in india which is famous for briyani and the taste w
 <li>Apricot Delight</li>
 </Ol>
 
-# places near the restaurant
+# Places near the restaurant
 <ul>
 <li>Mall</li>
 <li>Park</li>
