@@ -38,4 +38,20 @@ In this section, I will provide recommendations for books, songs, and videos. Ea
 | "Planet Earth II" (TV Series) | Breathtaking cinematography capturing the beauty and struggles of wildlife in diverse ecosystems. | David Attenborough     |
 | "Inception" (Movie)   | A mind-bending cinematic experience that explores the layers of dreams and reality with stunning visuals. | Christopher Nolan      |
 
+# Favorite Quotes
+
+---
+
+> Quote 1
+>
+> Anyone who never made a mistake has never tried anything new .
+>
+> - *Albert Einstein*
+
+> Quote 2
+>
+> You have to dream before your dreams come true.
+>
+> - *APJ Abdul Kalam*
+
 
