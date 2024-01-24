@@ -23,7 +23,7 @@ This is the best restaurant in india which is famous for briyani and the taste w
 </ul>
 
 
-[Added an link to](MyMedia.md)
+![Added an link to](MyMedia.md)
 
 # Recommended Media
 
@@ -44,5 +44,6 @@ In this section, I will provide recommendations for books, songs, and videos. Ea
 ---
 
 > "Anyone who never made a mistake has never tried anything new" - *Albert Einstein*
+
 > "You have to dream before your dreams come true" - *APJ Abdul Kalam*
 
