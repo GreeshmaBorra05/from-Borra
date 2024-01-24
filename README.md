@@ -23,7 +23,7 @@ This is the best restaurant in india which is famous for briyani and the taste w
 </ul>
 
 
-![About Greeshma](MyMedia.md)
+Added link to [About Greeshma](MyMedia.md)
 ---
 
 # Recommended Media
