@@ -23,15 +23,12 @@ This is the best restaurant in india which is famous for briyani and the taste w
 </ul>
 
 
-Added link to [MyMedia](MyMedia.md)
+[About Greeshma](MyMedia.md)
 ---
 
 # Recommended Media
 
  In this table Iam recomending about book,song and vedio
-
-
-
 
 | Name                  | Reason for Recommendation                | Creator                |
 |-----------------------|------------------------------------------|------------------------|
